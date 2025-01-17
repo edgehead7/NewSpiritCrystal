@@ -390,11 +390,11 @@ EventScript_CantDive::
 	end
 
 Text_WantToHeadbutt:
-	.string "It's a moderated sized tree.\n"
+	.string "It's a moderately sized tree.\n"
 	.string "Would you like to use HEADBUTT?$"
 	
 Text_CantHeadbuttTree:
-	.string "There's a large, formidable tree.\n"
+	.string "There's a moderately sized tree.\n"
 	.string "It looks like it can be headbutted!$"
 	
 EventScript_EndDive::
