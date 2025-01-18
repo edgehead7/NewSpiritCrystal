@@ -78,7 +78,7 @@
 #define OBJ_EVENT_GFX_NOLAND                      74
 #define OBJ_EVENT_GFX_LUCY                        75
 #define OBJ_EVENT_GFX_UNUSED_NATU_DOLL            76
-#define OBJ_EVENT_GFX_UNUSED_MAGNEMITE_DOLL       77
+#define OBJ_EVENT_GFX_PROF_ELM	       			  77
 #define OBJ_EVENT_GFX_UNUSED_SQUIRTLE_DOLL        78
 #define OBJ_EVENT_GFX_UNUSED_WOOPER_DOLL          79
 #define OBJ_EVENT_GFX_UNUSED_PIKACHU_DOLL         80
@@ -381,7 +381,7 @@
 #define OBJ_EVENT_PAL_TAG_RS_MAY                  0x1123
 #define OBJ_EVENT_PAL_TAG_DYNAMIC                 0x1124
 #define OBJ_EVENT_PAL_TAG_SILVER				  0x1125
-
+#define OBJ_EVENT_PAL_TAG_PROF_ELM				  0x1126
 #if OW_FOLLOWERS_POKEBALLS
 // Vanilla
 #define OBJ_EVENT_PAL_TAG_BALL_MASTER             0x1150
